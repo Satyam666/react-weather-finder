@@ -89,7 +89,7 @@ function App() {
        
       
       </main>
-      <p>Made by Satyam Kumar</p>
+      
     </div>
   );
 }
